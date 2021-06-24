@@ -1,10 +1,6 @@
 # Hi there 👋
-<a href="https://github.com/yevhenii-bakhmat"><img src="https://github-readme-stats.vercel.app/api?username=yevhenii-bakhmat&count_private=true" height="180" /></a> 
-<a href="https://github.com/arman-bd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenii-bakhmat&langs_count=8" height="180" /></a>
-
-
-![](https://i.imgur.com/YzMxidz.png)
-
+<a href="https://github.com/yevhenii-bakhmat"><img src="https://github-readme-stats.vercel.app/api?username=yevhenii-bakhmat&count_private=true" height="200" /></a> 
+<a href="https://github.com/yevhenii-bakhmat"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevhenii-bakhmat&langs_count=8" height="200" /></a>
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on NOTHING! Im relaxing
